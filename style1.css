@@ -1,0 +1,12 @@
+/* Write your own CSS here */
+
+header .logo {
+    height: 6rem;
+    display: block;
+    margin: auto;
+}
+
+/* Example - replace this with your own code! */
+main h1 {
+    font-size: 2.3em;
+}
